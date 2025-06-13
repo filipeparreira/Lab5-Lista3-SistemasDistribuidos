@@ -8,13 +8,13 @@ Vale ressaltar que como não foi exigido na descrição do Laboratório a execu�
 
 ## Execução
 Para execução e teste do software é necessário utilizar a *versão 24 do Java SDK*, e por conta da interface gráfica é útil que se instale as dependências mais comuns necessárias para o Java Swing. Em sistemas operacionas baseados em Linux, basta executar o seguinte comando: 
-    ```bash
-    sudo apt-get update
-    sudo apt-get install -y libxtst6 libxi6 libxrender1
-    ```  
+```bash
+sudo apt-get update
+sudo apt-get install -y libxtst6 libxi6 libxrender1
+```  
 Visando simplificar a execução do software como um todo, foi gerado o arquivo *.jar* para execução, sendo assim, basta clonar o repositório e executar o comando:  
-     ```bash
-        java -jar Lab5-1.0-SNAPSHOT.jar
-       ```  
+```bash
+java -jar Lab5-1.0-SNAPSHOT.jar
+```  
 
 
